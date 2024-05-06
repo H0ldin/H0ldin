@@ -1,5 +1,7 @@
 Hello I'm Holdin!
-=======================Front-End Dev // Script Maker-----------------------------Front end dev working on honing my skills on new projects and to make cool things!* ✉️  You can contact me at [holdinecstacy@gmail.com](mailto:holdinecstacy@gmail.com)
+=======================Front-End Dev // Script Maker
+-----------------------------Front end dev working on honing my skills on new projects and to make cool things!*
+✉️  You can contact me at [holdinecstacy@gmail.com](mailto:holdinecstacy@gmail.com)
 
 ### Skills
 
